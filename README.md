@@ -1,0 +1,2 @@
+# .dotfiles
+Linux Bash Configuration
