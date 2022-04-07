@@ -2,7 +2,7 @@
 
 command=$1
 
-cd ... || exit
+cd ~ || exit
 
 if [[ "$command" == "install" ]]; then
     # Install tmux config.
