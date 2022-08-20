@@ -5,5 +5,5 @@ lint:
 	shellcheck scripts/*.sh
 
 install:
-	bash script/setup.sh install
+	bash scripts/setup.sh install
 
